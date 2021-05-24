@@ -45,14 +45,13 @@ With the following software and hardware list you can run all code files present
 | 1  - 10     |Web Browser                  | Windows, Mac OS X, and Linux (Any) |
 
 
-We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://static.packt-cdn.com/
-downloads/9781800567641_ColorImages.pdf).
+We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://static.packt-cdn.com/downloads/9781800567641_ColorImages.pdf).
 
 ### Related products 
 * Automated Machine Learning [[Packt]](https://www.packtpub.com/product/automated-machine-learning/9781800567689) [[Amazon]](https://www.amazon.com/dp/1800567685)
 
 * Automated Machine Learning with Microsoft Azure [[Packt]](https://www.packtpub.com/product/Automated%20Machine%20Learning%20with%20Microsoft%20Azure/9781800565319) [[Amazon]](https://www.amazon.com/dp/1800565313)
 
-## Get to Know the Authors
+## Get to Know the Author
 **Luis Sobrecueva**
 is a senior software engineer and ML/DL practitioner currently working at Cabify. He has been a contributor to the OpenAI project as well as one of the contributors to the AutoKeras project.
