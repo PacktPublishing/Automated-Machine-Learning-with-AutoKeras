@@ -55,3 +55,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 ## Get to Know the Author
 **Luis Sobrecueva**
 is a senior software engineer and ML/DL practitioner currently working at Cabify. He has been a contributor to the OpenAI project as well as one of the contributors to the AutoKeras project.
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781800567641">https://packt.link/free-ebook/9781800567641 </a> </p>
